@@ -1,6 +1,6 @@
 ![Banner do projeto](./src/assets/image-projeto-smart-switch.png)
 
-
+```
 # 💡 Smart Light Switch
 
 Projeto React para treinar fundamentos do front-end, com foco em lógica, estado e estilização moderna.
