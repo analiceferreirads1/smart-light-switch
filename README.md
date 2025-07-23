@@ -1,3 +1,7 @@
+## 🔗 Projeto online
+
+👉 [smart-light-switch.vercel.app](https://smart-light-switch.vercel.app/)
+
 ![Banner do projeto](./src/assets/image-projeto-smart-switch.png)
 
 ```
