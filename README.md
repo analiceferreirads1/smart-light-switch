@@ -1,4 +1,4 @@
-![Banner do projeto](././src/assets/image-projeto-smart-switch.png)
+![Banner do projeto](./src/assets/image-projeto-smart-switch.png)
 
 
 # 💡 Smart Light Switch
@@ -9,7 +9,7 @@ Projeto React para treinar fundamentos do front-end, com foco em lógica, estado
 - Ligar e desligar uma lâmpada virtual
 - Modo escuro / modo claro
 - Ícone animado com styled-components
-- Armazenamento do estado no localStorage
+- Armazenamento do estado no localStorage   
 - Design responsivo para mobile
 - Interface acessível e amigável
 
