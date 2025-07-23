@@ -23,6 +23,29 @@ Projeto React para treinar fundamentos do front-end, com foco em lógica, estado
 ## 📸 Demonstração
 🔗 *Em breve no Vercel...*
 
+```bash
+
+## 📁 Estrutura de pastas
+smart-light-switch/
+├── assets/
+│ └── banner.png
+├── node_modules/
+├── public/
+├── src/
+│ ├── components/
+│ │ └── LightSwitch.jsx
+│ ├── styles/
+│ │ └── styles.js
+│ ├── main.jsx
+│ └── App.jsx
+├── .gitignore
+├── package.json
+├── package-lock.json
+├── README.md
+└── vite.config.js
+
+```bash
+
 ## 📁 Como rodar o projeto localmente
 
 ```bash
