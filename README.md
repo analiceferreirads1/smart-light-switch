@@ -56,4 +56,4 @@ npm run dev
 
 ```
 👩🏾‍💻 Desenvolvido por
-Analice Ferreira
+Analice Ferreira.
