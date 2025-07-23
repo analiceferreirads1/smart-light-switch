@@ -4,6 +4,8 @@
 
 ![Banner do projeto](./src/assets/image-projeto-smart-switch.png)
 
+![Demonstração do projeto](./src/assets/projeto-smart-switch.gif)
+
 ```
 # 💡 Smart Light Switch
 
@@ -25,7 +27,7 @@ Projeto React para treinar fundamentos do front-end, com foco em lógica, estado
 - Vite
 
 ## 📸 Demonstração
-🔗 *Em breve no Vercel...*
+🔗 https://smart-light-switch.vercel.app/
 
 ```bash
 
